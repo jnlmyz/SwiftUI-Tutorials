@@ -3,7 +3,7 @@ https://developer.apple.com/tutorials/swiftui/
 
 # Commit
 
-## good commit
+## good commit format
 
 ```
 <type>: <description>
@@ -26,7 +26,7 @@ docs: Everything related to documentation
 chore: Regular code maintenance.[ You can also use emojis to represent commit types]
 ```
 
-## good commit
+## commit rules
 
 - Separate the subject from the body with a blank line
 - Your commit message should not contain any whitespace errors
